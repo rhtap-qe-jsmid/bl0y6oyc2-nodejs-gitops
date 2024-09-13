@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bl0y6oyc2-nodejs-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/bl0y6oyc2-nodejs
